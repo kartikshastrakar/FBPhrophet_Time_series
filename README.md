@@ -52,7 +52,7 @@ Prophet requires the variable names in the time series to be:
       m.fit
       
   -6.prediction
-  future = m.make_future_dataframe(periods=213)
+  future = m.make_future_dataframe()
   forecast = m.predict(future)
 
   
