@@ -12,10 +12,10 @@ I learned that FB Prophet provides an open source code and free forecasting tool
           Matplotlib
           FB Prophet
 
-install FB Prophet and yfinance in colab-
+install FB Prophet  in colab-
 !pip install fbprophet
 
-install FB Prophet and yfinance in Vs code -
+install FB Prophet  in Vs code -
 %pip install fbprophet
 
 ###The Prophet Forecasting Model
